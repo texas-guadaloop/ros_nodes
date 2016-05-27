@@ -3,8 +3,8 @@
   <name>listener</name>
   <version>0.0.0</version>
   <description>The listener package</description>
-  <maintainer email="ubuntu@todo.todo">ubuntu</maintainer>
-  <license>TODO</license>
+  <maintainer email="tzvural@utexas.edu">Turan Vural</maintainer>
+  <license>BSD</license>
   <buildtool_depend>catkin</buildtool_depend>
   <build_depend>rospy</build_depend>
   <build_depend>std_msgs</build_depend>

@@ -6,4 +6,9 @@
           output = "screen">
         <remap from = "babble" to = "chatter" />
     </node>
+    
+    <node name = "blackbox" pkg = "blackbox" type = "blackbox_node"
+    		output = "screen">
+    	<remap from = "babble" to = "chatter" />
+    </node>
 </launch>
